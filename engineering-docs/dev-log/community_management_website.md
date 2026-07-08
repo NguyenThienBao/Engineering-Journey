@@ -53,7 +53,7 @@
         Print - Whole, Whole(Seperated files by Team), By a Team, By a Player.
         Agentic Payment Auditor (Add-ons)
 
-## Project Timeline
+## Project Timeline - 
     Phase 1: The Core Platform
 
     Backend (Foundations) (12 days + 2 days for backup)
